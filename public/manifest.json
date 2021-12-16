@@ -6,7 +6,7 @@
             "src": "/images/icon.png",
             "type": "image/png",
             "sizes": "1024x1024",
-            "purpose": "maskable"
+            "purpose": "maskable any"
         }
     ],
     "id": "/",
