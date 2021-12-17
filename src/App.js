@@ -9,7 +9,7 @@ export default function App() {
   const [output, setOutput] = useState('')
 
   const sendMessage = () => {
-    const url = 'http://' + address + ':8080/?message=' + message
+    const url = 'https://' + address + ':8080/?message=' + message
     console.log(url);
       axios.post(url)
         .then(response => {
