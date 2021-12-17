@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    top: 0;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    margin-top: 40%;
+}
+
+.input {
+    height: 80px;
+    border: 1px solid #ccc;
+    margin: 20px;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.button {
+    margin: 20px;
+    height: 80px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 5px 1px;
+    border-radius: 8px;
+    background-color: #144480;
+    color: lightgray;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.output {
+    margin: 20px;
+
+    height: 120px;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
