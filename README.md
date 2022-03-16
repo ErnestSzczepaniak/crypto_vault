@@ -1,23 +1,23 @@
 # Changelog
 ## [v1.2.0] - 2022-03-16
 ### New features
-* (0460394) refactor
-* (5231f23) nowy refactor
+* refactor (0460394)
+* nowy refactor (5231f23)
 ## [v1.0.1] - 2022-03-16
 ### Bug fixes
-* (19d6597) after tag
+* after tag (19d6597)
 ## [v1.0.0] - 2022-03-16
 ### Breaking changes
-* (3acf184) initial release
+* initial release (3acf184)
 ## [v0.2.1] - 2022-03-16
 ### Bug fixes
-* (169ff8c) proper messaging
+* proper messaging (169ff8c)
 ### Code styling
-* (8414329) removing whitespaces
+* removing whitespaces (8414329)
 ## [v0.2.0] - 2022-03-16
 ### New features
-* (2a67898) new feature
+* new feature (2a67898)
 ### Bug fixes
-* (4f65819) change newlines
-* (45eb735) fix newlines
-* (c7bb32b) remove newlines
+* change newlines (4f65819)
+* fix newlines (45eb735)
+* remove newlines (c7bb32b)
